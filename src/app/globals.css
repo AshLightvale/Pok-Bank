@@ -38,8 +38,8 @@
 	}
 
 	:root {
-		--background: 266 15% 12%;
-		--foreground: 356, 58%, 50%; 
+		--background: 356, 58%, 50%;
+		--foreground: 356, 7%, 98%;  
 
 		--card: 266 15% 12%;
 		--card-foreground: 210 20% 98%;
